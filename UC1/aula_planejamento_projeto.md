@@ -25,6 +25,6 @@ Objetivo: Compras online com entregas rápidas na residência ou retirada no loc
   
   Concorrentes online: BePet, Popular Pet
 
-## Fluxograma
+## Fluxograma do sistema:
 	
 <img width="1513" height="777" alt="image" src="https://github.com/user-attachments/assets/55cc3f4d-3bb3-46d3-a129-af62def67218" />
