@@ -9,21 +9,21 @@
 
 ## Marca AuMigo Petshop
 
-Público alvo: Pessoas que tem Pets e precisam de ração e produtos para cuidados
+**Público alvo**: Pessoas idosas que tem Pets e precisam de ração e produtos para cuidados
 
-Objetivo: Compras online com entregas rápidas na residência ou retirada no local
+**Objetivo**: Compras online com entregas rápidas na residência ou retirada no local com atendimento humanizado com IA.
 
 ## Briefing:
 
-  Objetivo: Fornecer produtos para Pets através de compras online.
+  **Objetivo**: Fornecer produtos para Pets através de compras online com atendimento facilitado para idosos.
   
-  Funcionalidade: Catalogo, carrinho, retirada ou entrega, pagamento.
+  **Funcionalidade**: Agente IA com atendimento personalizado, catalogo, carrinho, retirada ou entrega, pagamento.
   
-  Público: Pessoas entre 18 a 75 anos que possuem pets .
+  **Público**: Pessoas entre 45 a 80 anos que possuem pets.
   
-  Concorrentes: Central Animal Pet, Rural Shopping.
+  **Concorrentes**: Central Animal Pet, Rural Shopping.
   
-  Concorrentes online: BePet, Popular Pet
+  **Concorrentes online**: BePet, Popular Pet
 
 ## Fluxograma do sistema:
 	
