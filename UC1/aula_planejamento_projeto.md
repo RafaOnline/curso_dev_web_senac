@@ -7,7 +7,7 @@
 * Entender o papel da **arquitetura da informação** no sucesso de um projeto.
 * Iniciar o **primeiro exercício prático** de pesquisa e planejamento.
 
-## Marca Petz
+## Marca AuMigo Petshop
 
 Público alvo: Pessoas que tem Pets e precisam de ração e produtos para cuidados
 
