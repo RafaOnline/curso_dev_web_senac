@@ -11,7 +11,7 @@
 
 **Público alvo**: Pessoas idosas que tem Pets e precisam de ração e produtos para banho e tosa que tem dificuldade com tecnologia.
 
-**Objetivo**: Compras online com entregas rápidas na residência ou retirada no local com atendimento humanizado com IA.
+**Objetivo**: Compras online com entregas rápidas na residência ou retirada no local com atendimento humanizado utilizando IA.
 
 ## Briefing:
 
