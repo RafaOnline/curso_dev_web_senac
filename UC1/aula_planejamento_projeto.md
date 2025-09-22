@@ -27,4 +27,5 @@
 
 ## Fluxograma do sistema:
 	
-<img width="1513" height="777" alt="image" src="https://github.com/user-attachments/assets/55cc3f4d-3bb3-46d3-a129-af62def67218" />
+<img width="1228" height="608" alt="image" src="https://github.com/user-attachments/assets/02c0bbf0-14d8-4d10-bd94-25bcc36f9b97" />
+
