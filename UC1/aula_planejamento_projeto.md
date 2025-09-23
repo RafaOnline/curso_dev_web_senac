@@ -11,6 +11,7 @@
 
 De acordo com o portal de notícias **B50+**
 <img width="909" height="331" alt="image" src="https://github.com/user-attachments/assets/b5136e6c-ec82-4a76-bffd-371c5134e009" />
+https://b50.com.br/inclusao-digital-idosos-brasil/
 
 
 **Público alvo**: Pessoas idosas que tem Pets e precisam de ração e produtos para banho e tosa que tem dificuldade com tecnologia.
