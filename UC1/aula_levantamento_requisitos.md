@@ -29,5 +29,6 @@ O levantamento de requisitos foi feito com base no projeto da aula 1
 | **RNF002** | Desempenho | "Após 3 minutos sem interação com a IA o sistema encerra o antendimento" | Melhora o desempenho do site | Média |
 | **RNF003** | Produto | "Itens indisponiveis não são exibidos" | Evita erros nas compras | Alta |
 
+**Parte 2 - Histórias de Usuário** 
 
 
