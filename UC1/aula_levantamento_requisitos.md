@@ -8,6 +8,8 @@
 - Estabelecer uma base sólida para o planejamento do projeto
 
 ## Parte 1 - Requisitos
+O levantamento de requisitos foi feito com base no projeto da aula 1
+(https://github.com/RafaQATester/cursodevwebsenac/blob/main/UC1/aula_planejamento_projeto.md)
 
 **Requisitos Funcionais:**
 
