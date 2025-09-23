@@ -23,5 +23,5 @@ O levantamento de requisitos foi feito com base no projeto da aula 1
  
   - **RNF001**: O atendimento humanizado com a IA deve saber o histórico de atendimento de cada cliente
   - **RNF002**: Após 3 minutos sem interação com a IA o sistema encerra o antendimento
-  - **RNF003**: Itens indisponiveis deve ter a opção de notificação quando ficarem disponiveis novamente
+  - **RNF003**: Itens indisponiveis não são exibidos
 
