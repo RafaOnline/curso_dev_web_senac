@@ -72,7 +72,7 @@ Critérios de Aceitação:
 - Deve ser de forma clara e destacado o botão de compra 
 ```
 
-##Parte 3 - Prototipagem
+## Parte 3 - Prototipagem
 
 Realizei uma prototipagem de baixa fidelide (Lo-fi) para inicio de projeto
 
