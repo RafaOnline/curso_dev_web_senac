@@ -13,8 +13,7 @@ Ao final desta aula, você será capaz de:
 
 
 ## Quadro Kanban usando Trello
-Conforme solicitado na aula, crie uma simulação da metodologia Kanban aplicada em um projeto pequeno de desenvovimento.
-
+Conforme solicitado na aula, criei uma simulação da metodologia Kanban aplicada em um projeto pequeno de desenvovimento.
 
 <img width="860" height="310" alt="image" src="https://github.com/user-attachments/assets/d67f13c7-62a1-4ae8-a00f-b739dafa27ae" />
 
