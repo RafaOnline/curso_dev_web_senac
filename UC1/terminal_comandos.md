@@ -31,3 +31,18 @@ touch index.html: cria um novo arquivo .html
 - mv ./meu-arquivo-gigante.txt ./minha-sub-pasta: move "./meu-arquivo-gigante.txt"  para  "./minha-sub-pasta"
 - mv ./meu-arquivo-gigante.txt ./meu-gigante.txt: renomeia "./meu-arquivo-gigante.txt" para "./meu-gigante.txt"
 
+## cp
+- cp ./meu-arquivo-gigante.txt ./minha-sub-pasta: copia "./meu-arquivo-gigante.txt" para "./minha-sub-pasta"
+
+## cat
+- cat meu-arquivo.txt: imprime o conteudo do arquivo na tela
+
+## head
+- head meu-arquivo.txt: imprime as 10 primeiras linhas do arquivo
+- head -n 20 meu-arquivo.txt: imprime as 20 priomeiras linhas do arquivo
+
+## tail
+- tail meu-arquivo.txt: imprime as 10 últimas  linhas do arquivo
+- tail -n 20 meu-arquivo.txt: imprime as 20 últimas linhas do arquivo
+  
+
