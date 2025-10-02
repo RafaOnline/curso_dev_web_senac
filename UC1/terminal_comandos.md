@@ -44,5 +44,8 @@ touch index.html: cria um novo arquivo .html
 ## tail
 - tail meu-arquivo.txt: imprime as 10 últimas  linhas do arquivo
 - tail -n 20 meu-arquivo.txt: imprime as 20 últimas linhas do arquivo
+
+## grep
+- grep Future4 ./lista-de-empresas.txt: busca pela palavra Future4 no arquivo ./lista-de-empresas.txt e imprime toda a linha encontrada
   
 
