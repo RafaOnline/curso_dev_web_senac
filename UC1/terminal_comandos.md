@@ -39,7 +39,7 @@ touch index.html: cria um novo arquivo .html
 
 ## head
 - head meu-arquivo.txt: imprime as 10 primeiras linhas do arquivo
-- head -n 20 meu-arquivo.txt: imprime as 20 priomeiras linhas do arquivo
+- head -20 meu-arquivo.txt: imprime as 20 priomeiras linhas do arquivo
 
 ## tail
 - tail meu-arquivo.txt: imprime as 10 últimas  linhas do arquivo
