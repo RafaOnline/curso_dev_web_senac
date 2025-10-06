@@ -12,3 +12,8 @@ head -50 pokemons.txt: Retorna os 50 primeiros
 grep pikachu pokemons.txt: Procura a palavra pikachu no arquivo txt
 
 <img width="242" height="32" alt="image" src="https://github.com/user-attachments/assets/dbbe1efe-0a5a-4121-b24f-c62bd6973f25" />
+
+cp pokemons.txt ./projetos-main: copia o arquivo para outra pasta selecionada
+
+<img width="421" height="45" alt="image" src="https://github.com/user-attachments/assets/9b8633af-c580-4f28-bab4-fe0e07d95dac" />
+
