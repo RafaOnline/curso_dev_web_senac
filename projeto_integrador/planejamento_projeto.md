@@ -10,13 +10,13 @@ Slogan:
 
 Criar um ambiente corporativo interno para que colaboradores que gostam de jogos casuais possam:
 
-Socializar e conhecer colegas com interesses em comum.
+- Socializar e conhecer colegas com interesses em comum.
 
-Formar times para jogar online durante intervalos, happy hours ou eventos internos.
+- Formar times para jogar online durante intervalos, happy hours ou eventos internos.
 
-Participar de mini-torneios e desafios internos.
+- Participar de mini-torneios e desafios internos.
 
-Incentivar integração, engajamento e bem-estar no ambiente de trabalho.
+- Incentivar integração, engajamento e bem-estar no ambiente de trabalho.
 
 ## 📊 Análise de Mercado
 Concorrentes Locais e Online:
