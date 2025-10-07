@@ -1,6 +1,7 @@
 ## 🏢 Nome da Plataforma
 
 ## PlayConnect — Rede Interna Gamer Corporativa
+<img width="300" height="1024" alt="image" src="https://github.com/user-attachments/assets/74ad1ce1-04fe-4183-846a-e13581b49a0e" />
 
 Slogan:
 
