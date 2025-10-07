@@ -48,7 +48,7 @@ Quero encontrar colegas disponíveis para jogar
 
 Para criar duplas ou squads para torneios ou partidas casuais
 
-Critérios de Aceitação:
+**Critérios de Aceitação:**
 
 Sistema sugere colegas com interesses e horários compatíveis.
 
@@ -75,5 +75,5 @@ Pode se inscrever em torneios disponíveis.
 
 Sistema registra pontuação e exibe ranking interno.
 
-Persona: Lucas, Marketing, 30 anos, gosta de FIFA e Rocket League.
+**Persona:** Lucas, Marketing, 30 anos, gosta de FIFA e Rocket League.
 Valor Gerado: Incentiva engajamento, competitividade saudável e interação corporativa.
