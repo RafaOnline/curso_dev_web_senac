@@ -55,3 +55,10 @@ Funcionalidades: Perfis de colaboradores, matchmaking interno, feed social, chat
 Público-Alvo: Colaboradores casuais de empresas que gostam de jogos online e querem se conectar com colegas.
 
 Concorrentes: Slack, Teams (comunicação corporativa), Discord ou Steam Groups (uso informal).
+
+
+## 📱 Prototipagem Inicial
+
+Criei uma prototipagem para uma ideia inicial do projeto
+
+
