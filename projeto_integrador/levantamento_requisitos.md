@@ -77,3 +77,5 @@ Sistema registra pontuação e exibe ranking interno.
 
 **Persona:** Lucas, Marketing, 30 anos, gosta de FIFA e Rocket League.
 Valor Gerado: Incentiva engajamento, competitividade saudável e interação corporativa.
+
+# 📱 Exemplo de Wireframe Detalhado:
