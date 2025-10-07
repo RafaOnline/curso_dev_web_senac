@@ -33,4 +33,4 @@ Funcionalidades: Perfis de colaboradores, matchmaking interno, feed social, chat
 
 Público-Alvo: Colaboradores casuais de empresas que gostam de jogos online e querem se conectar com colegas.
 
-Concorrentes: Slack, Teams (comunicação corporativa), Discord ou Steam Groups (uso informal), plataformas de eSports corporativos limitadas.
+Concorrentes: Slack, Teams (comunicação corporativa), Discord ou Steam Groups (uso informal).
