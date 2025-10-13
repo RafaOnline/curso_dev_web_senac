@@ -36,3 +36,8 @@ Realizado um exercício básico para praticar a introdução ao **HTML**:
     </body>
     </html>
 ```
+
+Resultado:
+
+<img width="650" height="543" alt="image" src="https://github.com/user-attachments/assets/c35467a4-ad05-4523-b215-37c01b7a4f18" />
+
