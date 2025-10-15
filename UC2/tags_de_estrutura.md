@@ -10,6 +10,8 @@ Nessa aula tivemos introdução á estruturação de HTML e também foi prospost
   * Um parágrafo `<p>`
   * Um fundo diferente com o atributo `style`
 
+ Código:
+
 ```html
 <!DOCTYPE html>
 <html lang="pt-BR">
