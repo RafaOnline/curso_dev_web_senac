@@ -2,6 +2,53 @@
 
 Nessa aula tivemos introdução á estruturação de HTML e também foi prosposto um exercício prático.
 
+### 🧱 1. Criar uma Página com Seções
+
+* Crie 3 seções usando `<div>`, cada uma com:
+
+  * Um título `<h2>`
+  * Um parágrafo `<p>`
+  * Um fundo diferente com o atributo `style`
+
+```html
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercíco 2 Aula 7</title>
+</head>
+<body >
+
+    <div style="background: orange;">
+        <h2></h2>
+
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dignissimos itaque sequi, reprehenderit quam, placeat fuga et architecto officiis perferendis perspiciatis recusandae asperiores pariatur eaque repellendus veniam omnis error sunt adipisci!</p>
+    </div>
+
+    <div style="background: olive;">
+        <h2></h2>
+
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dignissimos itaque sequi, reprehenderit quam, placeat fuga et architecto officiis perferendis perspiciatis recusandae asperiores pariatur eaque repellendus veniam omnis error sunt adipisci!</p>
+    </div>
+ 
+
+    <div style="background-color: blueviolet;">
+        <h2></h2>
+
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dignissimos itaque sequi, reprehenderit quam, placeat fuga et architecto officiis perferendis perspiciatis recusandae asperiores pariatur eaque repellendus veniam omnis error sunt adipisci!</p>
+    </div>
+ 
+ 
+</body>
+</html>
+```
+
+Resultado:
+
+<img width="953" height="183" alt="image" src="https://github.com/user-attachments/assets/1df89a01-811f-4b1b-8429-7cfaec09aace" />
+
+
 ## 🧠 Exercícios 
 
 1. Crie uma seção adicional na página que inclua uma lista não ordenada de tópicos que você gostaria de aprender sobre HTML.
