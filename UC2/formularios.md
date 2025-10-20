@@ -53,7 +53,7 @@ Código:
         <h1 class="text-center">Formulário para inscrição</h1>
 
         <!-- Início do formulário -->
-        <form action="">
+        <form action="/cadastro" method="post">
             <!-- Campo: Nome e Sobrenome, organizados lado a lado -->
             <div class="row mb-3">
                 <div class="col">
