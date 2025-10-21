@@ -95,13 +95,13 @@ Código:
             <div class="form-check mb-3">
                 <div>
                     <input class="form-check-input" type="radio" name="genero_usuario" id="genero_feminino"
-                        value="feminino" required>
+                        value="feminino">
                     <label class="form-check-label" for="genero_feminino">Feminino</label>
                 </div>
 
                 <div>
                     <input class="form-check-input" type="radio" name="genero_usuario" id="genero_masculino"
-                        value="masculino" required>
+                        value="masculino">
                     <label class="form-check-label" for="genero_masculino">Masculino</label>
                 </div>
             </div>
