@@ -271,6 +271,11 @@ Resultado:
 
 <img width="777" height="884" alt="image" src="https://github.com/user-attachments/assets/2426a06a-251e-4f11-8bdb-372d301061e8" />
 
+## 💻 Tecnologias Utilizadas
+- HTML5 – estrutura da página
+- Bootstrap 5.3.8 – estilização e layout responsivo
+- Formulários nativos do HTML – para entrada de dados
+
 
 
 ## 🚀 **Conclusão**
