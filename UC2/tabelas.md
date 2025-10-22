@@ -274,7 +274,7 @@ Resultado:
 ## 💻 Tecnologias Utilizadas
 - HTML5 – estrutura da página
 - Bootstrap 5.3.8 – estilização e layout responsivo
-- Formulários nativos do HTML – para entrada de dados
+- Tabelas nativas do HTML
 
 
 
